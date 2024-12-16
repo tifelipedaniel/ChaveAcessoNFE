@@ -25,14 +25,14 @@ public class ChaveAcessoNFEGrafico {
 	private JTextField cNF;
 	private JTextField chave;
 
-//	private String cUF = "35"; // Código da UF do emitente do Documento Fiscal.  
-//	private String dataAAMM = "1906"; // Ano e Mês de emissão da NF-e.  
+//	private String cUF = "35"; // CÃ³digo da UF do emitente do Documento Fiscal.  
+//	private String dataAAMM = "1906"; // Ano e MÃªs de emissÃ£o da NF-e.  
 //	private String cnpjCpf = "03.258.870/0001-53"; // CNPJ do emitente.  
 //	private String mod = "55"; // Modelo do Documento Fiscal.  
-//	private String serie = "1"; // Série do Documento Fiscal.  
-//	private String tpEmis = "1"; // Forma de emissão da NF-e  
-//	private String nNF = "127377"; // Número do Documento Fiscal.  
-//	private String cNF = "64690"; // Código Numérico que compõe a Chave de Acesso
+//	private String serie = "1"; // SÃ©rie do Documento Fiscal.  
+//	private String tpEmis = "1"; // Forma de emissÃ£o da NF-e  
+//	private String nNF = "127377"; // NÃºmero do Documento Fiscal.  
+//	private String cNF = "64690"; // CÃ³digo NumÃ©rico que compÃµe a Chave de Acesso
 	
 	/**
 	 * Launch the application.
